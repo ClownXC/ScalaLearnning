@@ -1,0 +1,6 @@
+flink hadoop hive
+hadoop sqoop hadoop
+hadoop spark
+flink spark
+plusar
+hadoop kylin canal
